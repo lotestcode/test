@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>URL Shortener</title>
+</head>
+<body>
+    <h1>URL Shortener</h1>
+    <form method="post">
+        <input type="text" name="url" placeholder="Enter your URL" required>
+        <input type="text" name="custom_slug" placeholder="Custom Slug (optional)">
+        <input type="hidden" name="action" value="insert">
+        <button type="submit" name="submit">Shorten</button>
+    </form>
+    
+    <h2>Update Short URL</h2>
+    <form method="post">
+        <input type="text" name="custom_slug" placeholder="Enter Custom Slug" required>
+        <input type="text" name="new_url" placeholder="Enter New URL" required>
+        <input type="hidden" name="action" value="update">
+        <button type="submit" name="submit">Update</button>
+    </form>
+    
+    <?php if (isset($shortURL)) { ?>
+        <p>Short URL: <a href="<?php echo $shortURL; ?>" target="_blank"><?php echo $shortURL; ?></a></p>
+    <?php } ?>
+    
+    <?php if (isset($updateResult)) { ?>
+        <p><?php echo $updateResult ? "Short URL updated successfully!" : "Error updating short URL."; ?></p>
+    <?php } ?>
+</body>
+</html>
