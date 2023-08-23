@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/swadekaw/public_html
+    - export DEPLOYPATH=/home/swadekaw/dl.nulls-brawl-download.com
     - /bin/cp * $DEPLOYPATH
