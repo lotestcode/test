@@ -23,7 +23,7 @@
 
 <div class="container mt-5 mb-5">
 <div class="feature_item">
-<h2>Disclaimer for nulls-brawl-download.com</h2><br>
+<h1>Disclaimer for nulls-brawl-download.com</h1><br>
 <p>This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. For more information see: Supercell’s Fan Content Policy. Thanks for playing on Null’s Brawl</p>
 <br>
 <p>If you require any more information or have any questions about our site’s disclaimer, please feel free to contact us by email at info@nulls-brawl-download.com</p>
