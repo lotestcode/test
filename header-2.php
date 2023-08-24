@@ -6,6 +6,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="icon" href="../img/main/nb.png" type="image/png">
         <title>Nulls Brawl Download</title>
+		<meta name="description" content="Official Nulls Brawl Website - Private Servers">
+		<meta name="author" content="Admin">
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="../css/bootstrap.css">
         <link rel="stylesheet" href="../vendors/linericon/style.css">
