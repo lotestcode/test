@@ -252,22 +252,6 @@
 			</div>
 		</div>
         <!--================End Conclusion Area =================-->
-
-        <!--================Footer Area =================-->
-        <footer class="footer_area pt-5 pb-5">
-        	<div class="container">
-        		<div class="row footer_inner">
-        			<div class="col-12">
-        				<aside class="f_widget ab_widget">
-        					<p><b class="text-white">This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. For more information see: Supercell's Fan Content Policy. Thanks for playing on Null's Brawl.</b></p>
-        					<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Nulls Brawl Download
-
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-</p>
-        				</aside>
-        			</div>
-
 <?php
 include('footer.php');
 ?>

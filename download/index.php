@@ -90,11 +90,11 @@
 	</p>
 	<h2>How to install</h2>
 	<ol>
-<li>01. Now, open the “Null’s Brawl” APK file.</li>
-<li>02. Then Click on “Install”.</li>
-<li>03. Wait till the installation process is completed.</li>
-<li>04. After, installation is completed.</li>
-<li>05. Now, Open Null’s Brawl APK.</li>
+<li>Now, open the “Null’s Brawl” APK file.</li>
+<li>Then Click on “Install”.</li>
+<li>Wait till the installation process is completed.</li>
+<li>After, installation is completed.</li>
+<li>Now, Open Null’s Brawl APK.</li>
 </ol>
 	</div>
 </div>
