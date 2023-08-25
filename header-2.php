@@ -5,8 +5,10 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="icon" href="../img/main/nb.png" type="image/png">
-        <title>Nulls Brawl Download</title>
-		<meta name="description" content="Official Nulls Brawl Website - Private Servers">
+        <title><?php echo $title?></title>
+		<meta name="description" content="<?php echo $keywords?>">
+		<meta name="keywords" content="<?php echo $keywords ?>">
+		<link rel="canonical" href="<?php echo $currentURL ?>">
 		<meta name="author" content="Admin">
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="../css/bootstrap.css">
@@ -20,6 +22,15 @@
         <!-- main css -->
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/responsive.css">
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-E333LHEBDJ"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		
+		  gtag('config', 'G-E333LHEBDJ');
+		</script>
     </head>
     <body>
     
@@ -59,6 +70,7 @@
 									</ul>
 								</li> 
 								<li class="nav-item"><a class="nav-link" href="#">Blog (coming soon)</a></li>
+								<li class="nav-item"><a class="nav-link" href="../Update/">Update</a></li>
 							</ul>
 						</div> 
 					</div>

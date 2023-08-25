@@ -1,6 +1,9 @@
 <?php
+        $title="Contact us - Nulls Brawl Download";
+        $keywords="Contact, Contact us, nulls brawl Contact";
+		$description="Contact us - Nulls Brawl Download";
+		$currentURL = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
         include('../header-2.php');
-        $currentURL = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
 ?>
         <!--================Home Banner Area =================-->
         <section class="banner_area">

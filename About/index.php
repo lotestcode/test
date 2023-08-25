@@ -1,6 +1,9 @@
 <?php
+		$title="About us - Nulls Brawl Download";
+		$keywords="About, About us, Null's Brawl About";
+		$description="Nulls-brawl-download.com one of The Best platforms of Mod Android APK Collection";
+		$currentURL = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
         include('../header-2.php');
-        $currentURL = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
 ?>
         <!--================Home Banner Area =================-->
         <section class="banner_area">
