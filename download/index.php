@@ -78,11 +78,11 @@
 						</tr>
 					</table>
 		<div class="mb-4 text-center">
-			<h2>Download below</h2>
+			<!--<h2>Download below</h2>
 			<div class="mt-4 mb-4">
 			Ads code
-			</div>
-			<a href="#" class="btn btn-primary">Download Now</a>
+			</div>-->
+			<a href="https://url.nulls-brawl-download.com/dl-nb" class="btn btn-primary">Download Now</a>
 
 		</div>
 		<p>

@@ -23,16 +23,7 @@ include("../header-2.php");
         </section>
 <!--================End Home Banner Area =================-->
 
-
-
-
-
-
-<div class="container">
-    <div>
-            Downlaods
-    </div>
-</div>
+<h2 class="text-center mt-5 mb-5">Coming soon.</h2>
 
 
 

@@ -54,7 +54,7 @@
 									<li class="nav-item submenu dropdown">
 										<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services</a>
 										<ul class="dropdown-menu">
-											<li class="nav-item"><a class="nav-link" href="/">Null's Brawl APK</a></li>
+											<li class="nav-item"><a class="nav-link" href="../">Null's Brawl APK</a></li>
 											<li class="nav-item"><a class="nav-link" href="#">Null's Brawl IOS (coming soon)</a></li>
 											
 										</ul>

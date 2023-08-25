@@ -1,70 +1,10 @@
-<!doctype html>
-<html lang="en">
-    <head>
-        <!-- Required meta tags -->
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link rel="icon" href="./img/main/nb.png" type="image/png">
-        <title>Nulls Brawl Download</title>
-        <!-- Bootstrap CSS -->
-        <link rel="stylesheet" href="css/bootstrap.css">
-        <link rel="stylesheet" href="vendors/linericon/style.css">
-        <link rel="stylesheet" href="css/font-awesome.min.css">
-        <link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
-        <link rel="stylesheet" href="vendors/lightbox/simpleLightbox.css">
-        <link rel="stylesheet" href="vendors/nice-select/css/nice-select.css">
-        <link rel="stylesheet" href="vendors/animate-css/animate.css">
-        <link rel="stylesheet" href="vendors/flaticon/flaticon.css">
-        <!-- main css -->
-        <link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" href="css/responsive.css">
-    </head>
-    <body>
-    
-        <!--================Header Menu Area =================-->
-        <header class="header_area">
-            <div class="main_menu" id="mainNav">
-            	<nav class="navbar navbar-expand-lg navbar-light">
-					<div class="container box_1620">
-						<!-- Brand and toggle get grouped for better mobile display -->
-						<a class="navbar-brand logo_h" href="index.html"><img style="height: 50px;" src="img/main/logo-2.png" alt="Nulls brawl"></a>
-						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-						</button>
-						<!-- Collect the nav links, forms, and other content for toggling -->
-						<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
-							<ul class="nav navbar-nav menu_nav ml-auto">
-								<li class="nav-item active"><a class="nav-link" href="/">Home</a></li>
-								
-									<li class="nav-item submenu dropdown">
-										<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services</a>
-										<ul class="dropdown-menu">
-											<li class="nav-item"><a class="nav-link" href="/">Null's Brawl APK</a></li>
-											<li class="nav-item"><a class="nav-link" href="#">Null's Brawl IOS (coming soon)</a></li>
-											
-										</ul>
-									</li> 
-								<li class="nav-item submenu dropdown">
-									<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pages</a>
-									<ul class="dropdown-menu">
-										<li class="nav-item"><a class="nav-link" href="About">About</a></li>
-										<li class="nav-item"><a class="nav-link" href="Disclaimer">Disclaimer</a></li>
-										<li class="nav-item"><a class="nav-link" href="Terms-and-Conditions">TOS</a></li>
-										<li class="nav-item"><a class="nav-link" href="Privacy-Policy">Privacy Policy</a></li>
-										<li class="nav-item"><a class="nav-link" href="Contact">Contact</a></li>
-									</ul>
-								</li> 
-								<li class="nav-item"><a class="nav-link" href="#">Blog (coming soon)</a></li>
-								<li class="nav-item"><a class="nav-link" href="./Update/">Update</a></li>
-							</ul>
-						</div> 
-					</div>
-            	</nav>
-            </div>
-        </header>
-        <!--================Header Menu Area =================-->
+<?php
+        $title="Download Nulls Brawl 50.221 for Android Users (2023)";
+		$keywords= "Nulls Brawl, Null's Brawl, Null's Brawl APK, nulls brawl new update, Nulls brawl download, nulls brawl latest version";
+		$description="Download Nulls Brawl APK for free and jump into an amazing array of modes, and exciting challenges. You can go solo, duo, pvp, or you";
+		$currentURL = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+		include('header.php');
+?>
         
         <!--================Home Banner Area =================-->
         <section class="home_banner_area">
@@ -180,7 +120,7 @@
 		<section class="mt-5"  id="downinfo">
 			<div class="container">
 				<div class="main_title">
-					<p>ADS CODE</p><br>
+					<!--<div class="mt-2 mb-4">ADS CODE</div>-->
 					<a class="banner_btn" href="./download/"><span class="lnr lnr-arrow-down"> </span>Nulls Brawl for Android</a>
 					<p class="mt-4 mb-4 alert-primary pt-3 pb-3 pl-2 pr-2 rounded"><b class="text-primary">Update log: ARMv8-only devices support (like Pixel 7) and bug fixes. <a style="text-decoration: underline;" href="#">More logs</a></b></p>
 					<h2>Nulls Brawl APK info</h2>
@@ -251,23 +191,11 @@
         			<div class="col-12">
         				<div class="feature_item">
         					<h4>Unlimited Resource</h4>
-        					<p>This game provides all types of resources free and unlimited. The resource are Gems, Coins, Tokens, Power Points, Bling And More.</p>
+        					<p>Various types of assets are required to play this game. These assets include gems, coins, power points, and more. These are necessary to manage and operate this game. In the original game, these are not provided for free. However, through Nulls Brawl, unlimited assets can be obtained for free. Using these assets, game tasks can be easily completed.</p>
 							<h4 class="mt-5">Unlock Brawler And Skins</h4>
-							<p>This game provides unlocked brawlers and premium skins for free. They can be used in all game mods.</p>
+							<p>Through this game, all brawler can be unlocked with just one click. The brawler in this game belong to various categories: rare, super rare, epic, mythic, legendary & chromatic. Along with that, as many outfits as each character has can be unlocked, and all of these outfits can be used to play in every event.</p>
 							<h4 class="mt-5">Upgrade Brawler</h4>
-							<p>This game provides unlocked brawlers and premium skins for free. They can be used in all game mods.</p>
-							<h4 class="mt-5">ttt</h4>
-							<p>ppppppp</p>
-							<h4 class="mt-5">ttt</h4>
-							<p>ppppppp</p>
-							<h4 class="mt-5">ttt</h4>
-							<p>ppppppp</p>
-							<h4 class="mt-5">ttt</h4>
-							<p>ppppppp</p>
-							<h4 class="mt-5">ttt</h4>
-							<p>ppppppp</p>
-							<h4 class="mt-5">ttt</h4>
-							<p>ppppppp</p>
+							<p>In the original game, each character has levels that can be updated. To update them, a specific amount of tokens and coins is required. Within this game, all characters can be instantly leveled up to their maximum level with just one click, along with obtaining superpower and star power for free.</p>
 						</div>
         			</div>
         	</div>
@@ -312,7 +240,18 @@
 				</div>
         	</div>
         </section>
-        <!--================End Projects Area =================-->
+        <!--================End ss Area =================-->
+
+        <!--================End Conclusion Area =================-->
+		<div class="container mt-5 mb-5">
+			<div class="main_title">
+				<h2>Conclusion</h2>
+				<p>
+					we have duly presented you with a comprehensive repository of information pertaining to Null’s Brawl. Feel free to procure the apk through the provided links. As you're well aware, wielding the power of Android, you can unleash the full spectrum of features without bounds. The intricacies of these features have been meticulously expounded right here. 
+				</p>
+			</div>
+		</div>
+        <!--================End Conclusion Area =================-->
 
         <!--================Footer Area =================-->
         <footer class="footer_area pt-5 pb-5">
@@ -328,64 +267,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 </p>
         				</aside>
         			</div>
-        			<!--<div class="col-lg-5 col-sm-6">
-        				<aside class="f_widget news_widget">
-        					<div class="f_title">
-        						<h3>Newsletter</h3>
-        					</div>
-        					<p>Stay updated with our latest trends</p>
-        					<div id="mc_embed_signup">
-                                <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscribe_form relative">
-                                	<div class="input-group d-flex flex-row">
-										
-                                        <input name="EMAIL" placeholder="Enter email address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email Address '" required="" type="email">
-                                        <button class="btn sub-btn"><span class="lnr lnr-arrow-right"></span></button>	
-									</div>				
-                                    <div class="mt-10 info"></div>
-                                </form>
-                            </div>
-        				</aside>
-        			</div>-->
 
-        			<div class="col-lg-12 conatiner mt-4">
-        				<aside class="f_widget social_widget">
-        					<ul class="list">
-        						<li><a href="About">About</a></li>
-        						<li><a href="Disclaimer">Disclaimer</a></li>
-        						<li><a href="Terms-and-Conditions">Terms and Conditions</a></li>
-        						<li><a href="Privacy-Policy">Privacy Policy</a></li>
-        						<li><a href="Contact">Contact</a></li>
-        						
-        					</ul>
-        				</aside>
-        			</div>
-        		</div>
-        	</div>
-        </footer>
-        <!--================End Footer Area =================-->
-        
-        
-        
-        
-        
-        <!-- Optional JavaScript -->
-        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-        <script src="js/jquery-3.2.1.min.js"></script>
-        <script src="js/popper.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/stellar.js"></script>
-        <script src="vendors/lightbox/simpleLightbox.min.js"></script>
-        <script src="vendors/nice-select/js/jquery.nice-select.min.js"></script>
-        <script src="vendors/isotope/imagesloaded.pkgd.min.js"></script>
-        <script src="vendors/isotope/isotope-min.js"></script>
-        <script src="vendors/owl-carousel/owl.carousel.min.js"></script>
-        <script src="js/jquery.ajaxchimp.min.js"></script>
-        <script src="vendors/counter-up/jquery.waypoints.min.js"></script>
-        <script src="vendors/counter-up/jquery.counterup.min.js"></script>
-        <script src="js/mail-script.js"></script>
-        <!--gmaps Js-->
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
-        <script src="js/gmaps.min.js"></script>
-        <script src="js/theme.js"></script>
-    </body>
-</html>
+<?php
+include('footer.php');
+?>
