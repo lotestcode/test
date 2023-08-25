@@ -90,23 +90,11 @@
 	</p>
 	<h2>How to install</h2>
 	<ol>
-<li>This is a Single APK File Download it</li>
-
-
-
-<li>Click on Install And Open It.</li>
-
-
-
-<li>Now your OBB File will be downloaded.</li>
-
-
-
-<li>After completing the Update, Restart Your game.</li>
-
-
-
-<li>That’s It Now You are a BGMI 2.7 User.</li>
+<li>01. Now, open the “Null’s Brawl” APK file.</li>
+<li>02. Then Click on “Install”.</li>
+<li>03. Wait till the installation process is completed.</li>
+<li>04. After, installation is completed.</li>
+<li>05. Now, Open Null’s Brawl APK.</li>
 </ol>
 	</div>
 </div>
